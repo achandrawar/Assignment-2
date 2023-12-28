@@ -41,7 +41,7 @@ public class App {
         
     }
         public static void displayInfo(){
-            System.out.println("1: Add a New Student");
+            System.out.println("1: Enroll a New Student");
             System.out.println("2: Assign Teacher To Course");
             System.out.println("3: Make Payment");
             System.out.println("4: Generate Enrollment Report");
